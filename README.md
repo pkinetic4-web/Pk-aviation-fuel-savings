@@ -1,4 +1,4 @@
-# Project Kinetic: Aviation Retrofit System (Pillar 6)
+# Sovereign Kinetic: Aviation Retrofit System (Pillar 6)
 ### *Non-Invasive Efficiency Upgrades for Commercial & Logistics Fleets*
 
 ---
@@ -48,3 +48,4 @@ While this repository is licensed under the **GNU GPL v3.0** to ensure the free 
 *Subject Line: Commercial Partnership Inquiry - project Kinetic 
 
 ---
+​Note: Sovereign Kinetic (SK) was formerly developed under the working title "Project Kinetic." Some legacy documentation may still reflect the original codename.
